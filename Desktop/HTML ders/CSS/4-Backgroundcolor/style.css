@@ -1,0 +1,26 @@
+/* #pagetitle{
+    color: red;
+         }
+.orangecolor {
+    color: orange;
+         }
+#title{
+    color: aqua;
+} */
+/* external kısmı */
+/* li{
+    color: purple;
+}
+h1{
+    color: yellow;
+    background-color: turquoise;
+} */
+
+body {
+    background-color: #f0f8ff;
+    color: rgb(14, 14, 129);
+}
+#Overview {
+    color: green;
+    opacity:0.2 ;
+}

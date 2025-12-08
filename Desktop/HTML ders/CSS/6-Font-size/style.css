@@ -1,0 +1,50 @@
+  body {
+    font-family: "Roboto", sans-serif;  
+}
+div {
+     font-family: "Roboto", sans-serif;
+     width: 0.5;
+}
+#gölge {
+    text-shadow: 3px 3px 5px blue,
+                     -9px -9px 9px green,
+                        -15px 15px 15px yellow;
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    text-decoration: underline; color: red;
+    text-shadow: 2px 2px 5px black;
+}
+p {
+    font-weight: 200;
+    font-size: small;
+    word-spacing: 5px;
+    line-height: 20px;
+}
+h2 {
+    font-style: italic;
+    text-transform: uppercase;
+}
+ul {
+    font-size: 18px;
+    font-weight: 200;
+    list-style-type: square;
+}
+a {
+    font-size: 16px;
+    text-decoration: none;
+    color: turquoise;
+    
+}
+a:visited {
+    color: orange;
+}
+a:hover {
+    color: red;
+    font-size: 18px;
+    text-decoration: underline;
+    cursor:e-resize ;
+}

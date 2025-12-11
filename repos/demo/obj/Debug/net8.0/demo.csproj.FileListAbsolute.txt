@@ -28,3 +28,5 @@ C:\Users\Administrator\source\repos\demo\obj\Debug\net8.0\refint\demo.dll
 C:\Users\Administrator\source\repos\demo\obj\Debug\net8.0\demo.pdb
 C:\Users\Administrator\source\repos\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\demo\obj\Debug\net8.0\ref\demo.dll
+C:\Users\Administrator\source\repos\demo\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Administrator\source\repos\demo\obj\Debug\net8.0\demo.sourcelink.json

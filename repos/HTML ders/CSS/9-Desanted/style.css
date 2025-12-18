@@ -1,0 +1,13 @@
+li > span {
+    color: purple;
+}
+ol  li {
+    border: 5px solid red;
+    color: blue;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    marker: initial;
+}
+ul.liste {
+    color: goldenrod;
+}

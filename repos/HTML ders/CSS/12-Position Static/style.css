@@ -1,0 +1,22 @@
+p {
+    background-color: lightgray;
+    padding: 20px;
+    border: 1px solid gray;
+    margin: 40px;
+    font-size: 30px;
+    position: relative;
+    /* position: static; */
+    top: 80px;
+    left: 1px;
+}
+#ayrı {
+    background-color: lightblue;
+    padding: 20px;
+    border: 1px solid blue;
+    margin: 40px;
+    font-size: 30px;
+    position: relative;
+    left: 150px;
+    top: -10px;
+    z-index: -1;
+}

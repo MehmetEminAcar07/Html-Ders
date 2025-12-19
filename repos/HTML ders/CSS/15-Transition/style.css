@@ -2,12 +2,13 @@
     width: fit-content;
     height: fit-content;
     color: yellow;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-size: 24px;
     border: 2px solid yellow;
     background-color: navy;
     padding: 20px 10px;
     margin-top: 50px;
     display: block;
-    font-family: 'Roboto', sans-serif;
     /* transition: color 2s ease, border-color 2s ease,
     background-color 3s ease; */
     /* transition: all 1s linear; */
@@ -20,7 +21,7 @@
     color: navy;
     border-color: navy;    
     background-color: yellow;
-    transform: translate(150px, 150px) rotate(30deg) scale(1.25, 0.75);
+    transform: translate(150px, 150px) rotate(30deg) scale(1.10, 0.90);
     
     /* transition: background-color 2s ease, color 3s ease; */
 }

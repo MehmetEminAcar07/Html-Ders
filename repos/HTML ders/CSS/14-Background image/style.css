@@ -18,7 +18,7 @@
     border: 2px solid red;
     background-image: url('images/2.jpeg');
     background-size: cover;
-    background-position: ;
+    background-position: center;
     background-repeat: no-repeat;
     padding: 20px;
 }

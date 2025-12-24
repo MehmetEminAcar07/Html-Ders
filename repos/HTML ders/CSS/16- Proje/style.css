@@ -1,0 +1,61 @@
+body{
+    font-family: Poppins, cursive, sans-serif;
+}
+h1  {
+    display: inline-block;
+    color: navy;
+    text-shadow: yellow 2px 2px 4px;
+    text-align: left;
+    padding: 10px 0;
+    font-weight: 300;
+}
+.main-nav {
+    display: inline-block;
+   
+}
+.main-nav li  {
+    display: inline-block;
+}
+.main-nav a  {
+    color: yellow;
+    text-shadow: navy 1px 1px 2px;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0 10px;
+}
+.gallery img {
+    display: inline-block;
+    width: 100%;
+    height: 500px;
+    box-shadow: 2px 2px 10px gray;
+    margin: 10px;
+    object-fit: cover;
+    
+} 
+.photo {
+    display: inline-block;
+    width: 40%;
+    padding: 5px;
+    margin: 0;
+    text-align: left;
+    box-sizing: border-box;
+}
+.photo img:hover {
+    transform: scale(1.05);
+    opacity: 0.8;
+    transition: all 0.8s ease-in-out;
+}
+.photo h2 {
+    color: navy;
+    text-shadow: yellow 8px 0px 16px 0px;
+    font-weight: 300;
+}
+.achievements {
+    background-color: navy;
+    width: 50%;
+    margin: 10px ;
+    color: yellow;
+    text-align: left;
+    padding: 20px 0;
+    margin-top: 20px;
+}

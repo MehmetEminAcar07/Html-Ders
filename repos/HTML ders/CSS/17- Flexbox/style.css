@@ -1,15 +1,26 @@
-.container {
-     width: 80%;
-     margin: 40px auto;
-     border: black 2px solid;
- }
-.box {
-    width: 100px;
-    height: 100px;
-    font-size: 30px;
-    text-align: center;
-    line-height: 100px;
+body {
+    display: flex;
 }
-h1 {
+.container {
+    height: 400px;
+    width: 480px;
+    margin: 16px auto;
+    border: black 4px solid;
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;   
+    /* justify-content: center; */
+    /* justify-content: space-between; */
+    align-content: center;
+    /* align-items: center; */
+}
+.box {
+    width: 80px;
+    height: 40px;
+    font-size: 12px;
     text-align: center;
+    line-height: 40px;
+}
+.blueBox {
+    order: 0;
 }

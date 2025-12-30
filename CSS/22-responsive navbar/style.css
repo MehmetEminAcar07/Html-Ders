@@ -1,0 +1,36 @@
+.navbar {
+    background-color: lightsalmon;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 40px;    
+}
+.navbar a {
+    color: lightcyan;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0 20px;
+}
+.menu-icon {
+    display: flex;
+}
+@media screen and (max-width: 480px) {
+.navbar {
+    flex-direction: column;
+    background-color: lightsalmon;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 40px;    
+}
+.navbar a {
+    color: lightcyan;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 10px 20px;
+}
+.menu-icon {
+    display: flex;
+    flex-direction: column;
+}
+}
